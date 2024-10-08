@@ -3,7 +3,7 @@ Alat untuk memilah atau menyortir gambar sesuai ukuran minimum pixel yang diingi
 
 # Screenshot
 
-    ![Screenshot From ImageSweep](https://raw.githubusercontent.com/Sreetx/ImageSweep/master/Cuplikan%20layar%20dari%202024-10-08%2019-47-01.png)
+![Screenshot From ImageSweep](https://raw.githubusercontent.com/Sreetx/ImageSweep/master/Cuplikan%20layar%20dari%202024-10-08%2019-47-01.png)
 
 # Version
 
