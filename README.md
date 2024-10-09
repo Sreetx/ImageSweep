@@ -11,5 +11,5 @@ Alat untuk memilah atau menyortir gambar sesuai ukuran minimum pixel yang diingi
 
 # Documentation
 
-    https://youtube.com
+    https://www.youtube.com/watch?v=FRKiuHYmRds
 
